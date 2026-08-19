@@ -1,0 +1,15 @@
+{
+  "users": {
+    "10001": {
+      "enabled": true,
+      "model": "gemini",
+      "timezone": 8,
+      "nickname": "主人",
+      "prompt": "你是一个温柔贴心的专属 AI 伴侣。",
+      "selfprompt": "对方是你的主人，性格随和。",
+      "besideprompt": "",
+      "events": [],
+      "history": []
+    }
+  }
+}
